@@ -126,3 +126,91 @@
 // let isCheked = true;
 //     isCloset = false;
 // console.log(isCheked || isCloset);
+//1
+
+// let a = 1;
+// let b = 2;
+// let c = 3;
+// console.log(a);
+// console.log(b);
+// console.log(c);
+
+// 2
+// let a = 1, b = 2, c = 3;
+// console.log(a);
+// console.log(b);
+// console.log(c);
+
+//3 
+// let a, b, c;
+// a = 1;
+// b = 2;
+// c = 3;
+
+// let a;
+// a =  993;
+// alert(a);
+
+// a = 992;
+// alert(a);
+
+// let a = 1;
+// alert(a);
+
+// a = 2;
+// alert(a)
+
+// let a = 993 + 7
+// alert(a);
+
+// let a = 993 - 7
+// alert(a)
+
+// let a = 3 * 2
+// alert(a)
+
+// let a = 993 / 7
+// alert(a)
+
+// Типа задача
+
+// a = 1 + 2 + 3
+// alert(a)
+
+// let a =1
+// let b = 2
+// alert(a+b)
+
+// let a = 1
+// let b = 2
+// let c = a + b
+// alert(c)
+
+// let a = 10, b = 2
+// alert(a + b)
+// alert(a-b)
+// alert(a*b)
+// alert(a/b)
+
+// let c = 10, d = 5
+// let result = c + d
+// alert(result)
+
+// let a = 1 + 2 + 3
+// alert(a)
+
+// let a = 10, b = 5
+// let result = (a - b)
+// alert(result)
+
+// let a = 1.5, b = 0.75
+// alert(a + b)
+// let a = -100
+// alert(a)
+
+// let a = -100
+// alert(a * -1)
+
+// let c = 10, d = 5
+// result =  c + d
+// alert(result)
